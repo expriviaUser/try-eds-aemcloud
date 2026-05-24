@@ -9,7 +9,7 @@ function getField(block, name) {
   );
   return row?.querySelectorAll(':scope > div')[1]?.textContent?.trim() || '';
 }
-
+// eslint-disable-next-line max-len
 function renderCTA(label, href, target, type, linkType, ariaLabel, titleText, id, csTrack, icon, iconPos, modalCheck) {
   if (!label && !href) return '';
 
