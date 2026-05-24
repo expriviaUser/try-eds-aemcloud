@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p123722-e1281467.adobeaemcloud.com/try-eds/bin/franklin.delivery/expriviauser/try-eds-aemcloud/main"
+    url: "https://author-p123722-e1281467.adobeaemcloud.com/try-eds/bin/franklin.delivery/expriviauser/main"
     type: "markup"
     suffix: ".html"
